@@ -1,2 +1,2 @@
-# stock-analysis
-using VBA to analyze green energy stocks
+# **Stock Analysis with VBA**
+## Using VBA to Analyze Green Energy Stocks
