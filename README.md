@@ -10,3 +10,4 @@ refactored to improve the efficiency and speed of the analysis.
 The stocks for 2017 had a much better performance, averaging a 67.3% return on a total daily volume average of 263,886,592 shares. Compartavily,
 their performance for 2018 took a huge dip with the average return dropping all the way to -8.5% on a total daily average of 275,503,183 shares.
 Out of the 12 green energy stocks analyzed, only two had a positive return for 2018, both performing quite well over the year. 
+![2018 table](![image](https://user-images.githubusercontent.com/10662651/160493551-dc69ad73-d3d3-410a-87d9-b19b34c8dab0.png))
