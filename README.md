@@ -35,6 +35,9 @@ Holding the information in arrays allows added efficiency by storing the data on
 rather than storing the information in a variable, printing, and then overwriting the variable for the next iteration. The physical evidence shows in the speed 
 test that is performed. 
 
-Original Code:                             Refactored Code:
+Original Code: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Refactored Code:
 
-![2017original](https://github.com/mein0819/stock-analysis/blob/main/readMe_Images/stock_Analysis_2017_Time.png)  ![2017refactored](
+![2017original](https://github.com/mein0819/stock-analysis/blob/main/readMe_Images/stock_Analysis_2017_Time.png) &nbsp; &nbsp; &nbsp; &nbsp;![2017refactored](https://github.com/mein0819/stock-analysis/blob/main/readMe_Images/stock_Analysis_Refactored_2017_Time.png)
+
+
+Original Code: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Refactored Code:
