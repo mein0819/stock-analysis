@@ -45,3 +45,12 @@ Original Code: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n
 ![2018original](https://github.com/mein0819/stock-analysis/blob/main/readMe_Images/stock_Analysis_2018_Time.png) &nbsp; &nbsp; &nbsp; &nbsp;![2019refactored](https://github.com/mein0819/stock-analysis/blob/main/readMe_Images/stock_Analysis_Refactored_2018_Time.png)
 
 The refactored code increased the speed of the program by a little over 8x which is pretty significant when analyzing a data set as large as the stock market.
+
+## Summary
+### Pros and Cons for Refactoring Code
+Refactoring is beneficial to making code more organized and easier to understand, making it more efficient, locating bugs, and keeping the code adaptive and up to date. Problems with refactoring may occur if the designer of the new code isn't familiar with the system and background of the software, which can lead to new bugs, disrupting a stable system. Time and money also are a factor in whether refactoring is actually beneficial as the goals of the project always have to be kept in mind.
+
+### Refactoring Code for this Project
+Refactoring the code to conduct this analysis increased the efficiency and improved the organization of the script. The results in the speed test prove this. As far
+as any disadvantages for refactoring, I don't believe this program is too large or too complicated that any future developer would have an issue in any design 
+improvement.
