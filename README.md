@@ -34,4 +34,7 @@ each of the total volume, starting price and ending price for each "ticker" that
 Holding the information in arrays allows added efficiency by storing the data once in one loop and printing in another loop once the arrays are full, 
 rather than storing the information in a variable, printing, and then overwriting the variable for the next iteration. The physical evidence shows in the speed 
 test that is performed. 
-Original Code: 
+
+Original Code:                             Refactored Code:
+
+![2017original](https://github.com/mein0819/stock-analysis/blob/main/readMe_Images/stock_Analysis_2017_Time.png)  ![2017refactored](
