@@ -12,3 +12,8 @@ their performance for 2018 took a huge dip with the average return dropping all 
 Out of the 12 green energy stocks analyzed, only two had a positive return for 2018, both performing quite well over the year. 
 
 ![2018 table](https://github.com/mein0819/stock-analysis/blob/main/readMe_Images/2018_chart.png)
+
+Overall though, it may be wise for the client to advise his parents to expand their search of green energy stocks that show a better return over time. 
+Fortunately, the next section will show that the refactored code for this analysis improves efficiency and speed to run on a much larger data set.
+
+### Refactored Code vs. Original Code Speed Differences
