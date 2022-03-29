@@ -42,4 +42,6 @@ Original Code: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &n
 
 Original Code: &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  Refactored Code:
 
-![2018original](https://github.com/mein0819/stock-analysis/blob/main/readMe_Images/stock_Analysis_2018_Time.png) &nbsp; &nbsp; &nbsp; &nbsp;
+![2018original](https://github.com/mein0819/stock-analysis/blob/main/readMe_Images/stock_Analysis_2018_Time.png) &nbsp; &nbsp; &nbsp; &nbsp;![2019refactored](https://github.com/mein0819/stock-analysis/blob/main/readMe_Images/stock_Analysis_Refactored_2018_Time.png)
+
+The refactored code increased the speed of the program by a little over 8x which is pretty significant when analyzing a data set as large as the stock market.
