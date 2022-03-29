@@ -17,3 +17,11 @@ Overall though, it may be wise for the client to advise his parents to expand th
 Fortunately, the next section will show that the refactored code for this analysis improves efficiency and speed to run on a much larger data set.
 
 ### Refactored Code vs. Original Code Speed Differences
+The code from the All Stocks Analysis script was refactored to store the necessary data from the workbook in arrays. A unique array was created to hold
+each of the total volume, starting price and ending price for each "ticker" that was stored in a ticker array.
+
+![data arrays](https://github.com/mein0819/stock-analysis/blob/main/readMe_Images/arrays_Refactored.png)
+ The code loops through the rows of the selected workbook using the variable tickerIndex as the iterator and stores the appropriate information from selected 
+ cells into the appropriate array through a series of conditions...
+ 
+ 
