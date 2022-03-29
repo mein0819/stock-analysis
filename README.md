@@ -21,7 +21,10 @@ The code from the All Stocks Analysis script was refactored to store the necessa
 each of the total volume, starting price and ending price for each "ticker" that was stored in a ticker array.
 
 ![data arrays](https://github.com/mein0819/stock-analysis/blob/main/readMe_Images/arrays_Refactored.png)
+
  The code loops through the rows of the selected workbook using the variable tickerIndex as the iterator and stores the appropriate information from selected 
  cells into the appropriate array through a series of conditions...
  
+ ![array input](https://github.com/mein0819/stock-analysis/blob/main/readMe_Images/array_Input.png)
  
+ and then prints the output to the workbook from the information held in the arrays. 
