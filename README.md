@@ -28,3 +28,10 @@ each of the total volume, starting price and ending price for each "ticker" that
  ![array input](https://github.com/mein0819/stock-analysis/blob/main/readMe_Images/array_Input.png)
  
  and then prints the output to the workbook from the information held in the arrays. 
+
+![array output](https://github.com/mein0819/stock-analysis/blob/main/readMe_Images/print_Array_Info.png)
+
+Holding the information in arrays allows added efficiency by storing the data once in one loop and printing in another loop once the arrays are full, 
+rather than storing the information in a variable, printing, and then overwriting the variable for the next iteration. The physical evidence shows in the speed 
+test that is performed. 
+Original Code: 
